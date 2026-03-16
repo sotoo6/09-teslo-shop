@@ -1,8 +1,8 @@
-## Teslo Shop
+# Teslo Shop
 
 Tienda online de Teslo
 
-# Levantar proyecto en Dev:
+## Levantar proyecto en Dev:
 
 1. Clonar repositorio
 2. Clonar repositorio `10-nest-teslo-shop-backend`
