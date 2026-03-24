@@ -13,7 +13,7 @@ export class RegisterPage {
   fb = inject(FormBuilder);
   hasError = signal(false);
   isPosting = signal(false);
-  router = inject(Router)
+  router = inject(Router);
 
   authService = inject(AuthService);
 
